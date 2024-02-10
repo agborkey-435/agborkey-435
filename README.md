@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Design and Development and Programming with Python
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me +233 20 402 9129
+- Twitter = Just // Jude @kofi_435
 - ⚡ Fun fact: I usually don't know what I'm doing, but I end up doing what needs to be done
 
 <!---
